@@ -5,7 +5,7 @@ Here is a template you can use to inscribe your own single-page HTML website.
 
 This can be used as a landing page, digital business card, quick bio, or art!
 
-Give a follow [Fservin.btc](https://twitter.com/fservin) and [RT if you like the experiment](https://twitter.com/fservin/status/1669056738732183552?s=20) and show me on Twitter if you inscribe your own!
+Give a follow [Fservin.btc](https://twitter.com/raasakh) and [RT if you like the experiment](https://twitter.com/raasakh/status/1669056738732183552?s=20) and show me on Twitter if you inscribe your own!
 
 ## Quick instructions:
 1. Edit `template.html` and customize it with your own information.
